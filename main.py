@@ -73,14 +73,21 @@ elif btn == 'TUTORIALS':
                 left_column,right_column = st.columns(2)
     
                 with left_column:
-                        st.markdown("[Square and Square Roots...............](https://www.youtube.com/watch?v=Ze2cRx39va0&t=54s)")
-                        st.markdown("[comparing quantities_Part_I...........](https://www.youtube.com/watch?v=InDKtQ_9PZ0&t=6s)")
-                        st.markdown("[comparing quantities_Part_II..........](https://www.youtube.com/watch?v=cedH0IFkEdE&t=15s)")
-                        st.markdown("[Direct and Invers proportion .........](https://www.youtube.com/watch?v=ysMoG6HBSoc&t=130s)")
-                        st.markdown("[Playing with Numbers .................](https://www.youtube.com/watch?v=Y6P0K08dHEc&t=1s)")
-                        st.markdown("[Profit,Loss and Discount .............](https://www.youtube.com/watch?v=9rw8rtStT_U&t=95s)")
+                        st.markdown("[Square and Square Roots_Part_I...............](https://www.youtube.com/watch?v=3ZD3s6CEGaw&t=2s)")
+                        st.markdown("[Square and Square Roots_Part_II...............](https://www.youtube.com/watch?v=51j5vQB96g8&t=5s)")                        
+                        st.markdown("[Cube and Cube Roots ..........................](https://www.youtube.com/watch?v=MCT9KqB3Sww&t=9s)")                        
+                        st.markdown("[comparing quantities_Part_I...................](https://www.youtube.com/watch?v=InDKtQ_9PZ0&t=6s)")
+                        st.markdown("[comparing quantities_Part_II..................](https://www.youtube.com/watch?v=cedH0IFkEdE&t=15s)")
+                        st.markdown("[Direct and Invers proportion .................](https://www.youtube.com/watch?v=ysMoG6HBSoc&t=130s)")
+                        st.markdown("[Playing with Numbers .........................](https://www.youtube.com/watch?v=Y6P0K08dHEc&t=1s)")
+                        st.markdown("[Profit,Loss and Discount .....................](https://www.youtube.com/watch?v=9rw8rtStT_U&t=95s)")
                 with right_column:    
-                        st.markdown("[Simple Interest and CI ...............](https://www.youtube.com/watch?v=838w989Rx7A&t=521s)")
+                        st.markdown("[Rational Numbers .............................](https://www.youtube.com/watch?v=UW0OKOkYKKc&t=18s)")
+                        st.markdown("[Exponents and Powers .........................](https://www.youtube.com/watch?v=Uxlbgl-cHrg&t=55s)")
+                        st.markdown("[Linear Equ in one variable_Part_I ............](https://www.youtube.com/watch?v=_Sy6UGUqjsQ&t=300s)")
+                        st.markdown("[Linear Equ in one variable_Part_II ...........](https://www.youtube.com/watch?v=W8nkQV_EZQs&t=18s)")
+                        st.markdown("[Polygons & Quadrilaterals_Part_I .............](https://www.youtube.com/watch?v=0FFECYjxgdk&t=13s)")
+                        st.markdown("[Polygons & Quadrilaterals_Part_II ............](https://www.youtube.com/watch?v=RFrGc6YjMTg&t=58s)")
 
         elif std == 'IX STD':
                 st.write("Tutorials for IX STD")
